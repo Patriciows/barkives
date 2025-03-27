@@ -12,6 +12,8 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "barkives": "file:"
+    "@tailwindcss/vite": "^4.0.17",
+    "barkives": "file:",
+    "tailwindcss": "^4.0.17"
   }
 }
